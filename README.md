@@ -1,23 +1,24 @@
 <h1 align="center">Hi 👋, I'm Shiv Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="<img src="path/to/image.jpg" alt="Description of image">
+" alt="Description of image">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibbuuu&label=Profile%20views&color=0e75b6&style=flat" alt="shibbuuu" /> </p>
 
 - 🔭 I’m currently working on [Text Editor Using Reactjs](https://github.com/Shibbuuu/Text-Editor-using-react)
 
-- 🌱 I’m currently learning **Reactjs,Node Js,Javascript,MongoDb**
+- 🌱 I’m currently learning **Reactjs, Node Js, Javascript,MongoDB**
 
-- 👯 I’m looking to collaborate on **News Monkey**
+- 👯 I’m looking to collaborate on **News Monkey Website using React**
 
-- 🤝 I’m looking for help with **Ecommerce Website**
+- 🤝 I’m looking for help with **E-commerce Website**
 
-- 💬 Ask me about **HTML,CSS,DSA,Java,SQL,JDBC.**
+- 💬 Ask me about **HTML, CSS,DSA, Java,SQL, JDBC.**
 
 - 📫 How to reach me **shveesingh@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
