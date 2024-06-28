@@ -23,10 +23,10 @@
 <p align="left">
 <a href="https://dev.to/shibbuuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shibbuuu" height="30" width="40" /></a>
 <a href="https://twitter.com/shivsin57168351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivsin57168351" height="30" width="40" /></a>
-<a href="shiv-singh-23951818b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shiv-singh-23951818b/" height="30" width="40" /></a>
-<a href="shiv singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shiv singh" height="30" width="40" /></a>
+
+
 <a href="https://instagram.com/_shivsingh.thakur.666_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shivsingh.thakur.666_" height="30" width="40" /></a>
-<a href="SHIVSINGH-vn8tw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucegyzs4dfsfz107it79sykq" height="30" width="40" /></a>
+
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/shivji047" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shivji047" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/shveesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/shveesingh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/shivji047/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shivji047/" height="30" width="40" /></a>
