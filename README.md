@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiv Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="Description of image">
 
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Text Editor Using Reactjs](https://github.com/Shibbuuu/Text-Editor-using-react)
 
-- 🌱 I’m currently learning **Reactjs, Node Js, Javascript,MongoDB**
+- 🌱 I’m currently learning **Reactjs, Node Js, Javascript, MongoDB**
 
 - 👯 I’m looking to collaborate on **News Monkey Website using React**
 
 - 🤝 I’m looking for help with **E-commerce Website**
 
-- 💬 Ask me about **HTML, CSS,DSA, Java,SQL, JDBC.**
+- 💬 Ask me about **HTML, CSS, DSA, Java, SQL, JDBC.**
 
 - 📫 How to reach me **shveesingh@gmail.com**
 
